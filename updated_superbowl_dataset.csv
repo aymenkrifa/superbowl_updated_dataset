@@ -1,0 +1,56 @@
+,date,super_bowl,winner,winner_points,loser,loser_points,loser_qb,winner_qb,winner_coach,loser_coach,combined_points,difference_points,attendance,mvp_player,stadium,city,state
+0,Feb 7 2021,LV (55),Tampa Bay Buccaneers,31,Kansas City Chiefs,9,Patrick Mahomes,Tom Brady,Bruce Arians,Andy Reid,40,22,24835,Tom Brady,Raymond James Stadium,Tampa,Florida
+1,Feb 2 2020,LIV (54),Kansas City Chiefs,31,San Francisco 49ers,20,Jimmy Garoppolo,Patrick Mahomes,Andy Reid,Kyle Shanahan,51,11,62417,Patrick Mahomes,Hard Rock Stadium,Miami Gardens,Florida
+2,Feb 3 2019,LIII (53),New England Patriots,13,Los Angeles Rams,3,Jared Goff,Tom Brady,Bill Belichick,Sean McVay,16,10,70081,Julian Edelman,Mercedes-Benz Stadium,Atlanta,Georgia
+3,Feb 4 2018,LII (52),Philadelphia Eagles,41,New England Patriots,33,Tom Brady,Nick Foles,Doug Pederson,Bill Belichick,74,8,67612,Nick Foles,U.S. Bank Stadium,Minneapolis,Minnesota
+4,Feb 5 2017,LI (51),New England Patriots,34,Atlanta Falcons,28,Matt Ryan,Tom Brady,Bill Belichick,Dan Quinn,62,6,70807,Tom Brady,NRG Stadium,Houston,Texas
+5,Feb 7 2016,50,Denver Broncos,24,Carolina Panthers,10,Cam Newton,Peyton Manning,Gary Kubiak,Ron Rivera,34,14,71088,Von Miller,Levi's Stadium,Santa Clara,California
+6,Feb 1 2015,XLIX (49),New England Patriots,28,Seattle Seahawks,24,Russell Wilson,Tom Brady,Bill Belichick,Pete Carroll,52,4,70288,Tom Brady,University of Phoenix Stadium,Glendale,Arizona
+7,Feb 2 2014,XLVIII (48),Seattle Seahawks,43,Denver Broncos,8,Peyton Manning,Russell Wilson,Pete Carroll,John Fox,51,35,82529,Malcolm Smith,MetLife Stadium,East Rutherford,New Jersey
+8,Feb 3 2013,XLVII (47),Baltimore Ravens,34,San Francisco 49ers,31,Colin Kaepernick,Joe Flacco,John Harbaugh,Jim Harbaugh,65,3,71024,Joe Flacco,Mercedes-Benz Superdome,New Orleans,Louisiana
+9,Feb 5 2012,XLVI (46),New York Giants,21,New England Patriots,17,Tom Brady,Eli Manning,Tom Coughlin,Bill Belichick,38,4,68658,Eli Manning,Lucas Oil Stadium,Indianapolis,Indiana
+10,Feb 6 2011,XLV (45),Green Bay Packers,31,Pittsburgh Steelers,25,Ben Roethlisberger,Aaron Rodgers,Mike McCarthy,Mike Tomlin,56,6,103219,Aaron Rodgers,Cowboys Stadium,Arlington,Texas
+11,Feb 7 2010,XLIV (44),New Orleans Saints,31,Indianapolis Colts,17,Peyton Manning,Drew Brees,Sean Payton,Jim Caldwell,48,14,74059,Drew Brees,Sun Life Stadium,Miami Gardens,Florida
+12,Feb 1 2009,XLIII (43),Pittsburgh Steelers,27,Arizona Cardinals,23,Kurt Warner,Ben Roethlisberger,Mike Tomlin,Ken Whisenhunt,50,4,70774,Santonio Holmes,Raymond James Stadium,Tampa,Florida
+13,Feb 3 2008,XLII (42),New York Giants,17,New England Patriots,14,Tom Brady,Eli Manning,Tom Coughlin,Bill Belichick,31,3,71101,Eli Manning,University of Phoenix Stadium,Glendale,Arizona
+14,Feb 4 2007,XLI (41),Indianapolis Colts,29,Chicago Bears,17,Rex Grossman,Peyton Manning,Tony Dungy,Lovie Smith,46,12,74512,Peyton Manning,Dolphin Stadium,Miami Gardens,Florida
+15,Feb 5 2006,XL (40),Pittsburgh Steelers,21,Seattle Seahawks,10,Matt Hasselbeck,Ben Roethlisberger,Bill Cowher,Mike Holmgren,31,11,68206,Hines Ward,Ford Field,Detroit,Michigan
+16,Feb 6 2005,XXXIX (39),New England Patriots,24,Philadelphia Eagles,21,Donovan McNabb,Tom Brady,Bill Belichick,Andy Reid,45,3,78125,Deion Branch,Alltel Stadium,Jacksonville,Florida
+17,Feb 1 2004,XXXVIII (38),New England Patriots,32,Carolina Panthers,29,Jake Delhomme,Tom Brady,Bill Belichick,John Fox,61,3,71525,Tom Brady,Reliant Stadium,Houston,Texas
+18,Jan 26 2003,XXXVII (37),Tampa Bay Buccaneers,48,Oakland Raiders,21,Rich Gannon,Brad Johnson,Jon Gruden,Bill Callahan,69,27,67603,Dexter Jackson,Qualcomm Stadium,San Diego,California
+19,Feb 3 2002,XXXVI (36),New England Patriots,20,St. Louis Rams,17,Kurt Warner,Tom Brady,Bill Belichick,Mike Martz,37,3,72922,Tom Brady,Louisiana Superdome,New Orleans,Louisiana
+20,Jan 28 2001,XXXV (35),Baltimore Ravens,34,New York Giants,7,Kerry Collins,Trent Dilfer,Brian Billick,Jim Fassel,41,27,71921,Ray Lewis+,Raymond James Stadium,Tampa,Florida
+21,Jan 30 2000,XXXIV (34),St. Louis Rams,23,Tennessee Titans,16,Steve McNair,Kurt Warner,Dick Vermeil,Jeff Fisher,39,7,72625,Kurt Warner+,Georgia Dome,Atlanta,Georgia
+22,Jan 31 1999,XXXIII (33),Denver Broncos,34,Atlanta Falcons,19,Chris Chandler,John Elway,Mike Shanahan,Dan Reeves,53,15,74803,John Elway+,Pro Player Stadium,Miami Gardens,Florida
+23,Jan 25 1998,XXXII (32),Denver Broncos,31,Green Bay Packers,24,Brett Favre,John Elway,Mike Shanahan,Mike Holmgren,55,7,68912,Terrell Davis+,Qualcomm Stadium,San Diego,California
+24,Jan 26 1997,XXXI (31),Green Bay Packers,35,New England Patriots,21,Drew Bledsoe,Brett Favre,Mike Holmgren,Bill Parcells,56,14,72301,Desmond Howard,Louisiana Superdome,New Orleans,Louisiana
+25,Jan 28 1996,XXX (30),Dallas Cowboys,27,Pittsburgh Steelers,17,Neil O'Donnell,Troy Aikman,Barry Switzer,Bill Cowher,44,10,76347,Larry Brown,Sun Devil Stadium,Tempe,Arizona
+26,Jan 29 1995,XXIX (29),San Francisco 49ers,49,San Diego Chargers,26,Stan Humphreys,Steve Young,George Seifert,Bobby Ross,75,23,74107,Steve Young+,Joe Robbie Stadium,Miami Gardens,Florida
+27,Jan 30 1994,XXVIII (28),Dallas Cowboys,30,Buffalo Bills,13,Jim Kelly,Troy Aikman,Jimmy Johnson,Marv Levy,43,17,72817,Emmitt Smith+,Georgia Dome,Atlanta,Georgia
+28,Jan 31 1993,XXVII (27),Dallas Cowboys,52,Buffalo Bills,17,Jim Kelly,Troy Aikman,Jimmy Johnson,Marv Levy,69,35,98374,Troy Aikman+,Rose Bowl,Pasadena,California
+29,Jan 26 1992,XXVI (26),Washington Redskins,37,Buffalo Bills,24,Jim Kelly,Mark Rypien,Joe Gibbs,Marv Levy,61,13,63130,Mark Rypien,Metrodome,Minneapolis,Minnesota
+30,Jan 27 1991,XXV (25),New York Giants,20,Buffalo Bills,19,Jim Kelly,Jeff Hostetler,Bill Parcells,Marv Levy,39,1,73813,Ottis Anderson,Tampa Stadium,Tampa,Florida
+31,Jan 28 1990,XXIV (24),San Francisco 49ers,55,Denver Broncos,10,John Elway,Joe Montana,George Seifert,Dan Reeves,65,45,72919,Joe Montana+,Louisiana Superdome,New Orleans,Louisiana
+32,Jan 22 1989,XXIII (23),San Francisco 49ers,20,Cincinnati Bengals,16,Boomer Esiason,Joe Montana,Bill Walsh,Sam Wyche,36,4,75129,Jerry Rice+,Joe Robbie Stadium,Miami Gardens,Florida
+33,Jan 31 1988,XXII (22),Washington Redskins,42,Denver Broncos,10,John Elway,Doug Williams,Joe Gibbs,Dan Reeves,52,32,73302,Doug Williams,Jack Murphy Stadium,San Diego,California
+34,Jan 25 1987,XXI (21),New York Giants,39,Denver Broncos,20,John Elway,Phil Simms,Bill Parcells,Dan Reeves,59,19,101063,Phil Simms,Rose Bowl,Pasadena,California
+35,Jan 26 1986,XX (20),Chicago Bears,46,New England Patriots,10,Tony Eason,Jim McMahon,Mike Ditka,Raymond Berry,56,36,73818,Richard Dent+,Louisiana Superdome,New Orleans,Louisiana
+36,Jan 20 1985,XIX (19),San Francisco 49ers,38,Miami Dolphins,16,Dan Marino,Joe Montano,Bill Walsh,Don Shula,54,22,84059,Joe Montana+,Stanford Stadium,Palo Alto,California
+37,Jan 22 1984,XVIII (18),Los Angeles Raiders,38,Washington Redskins,9,Joe Theismann,Jim Plunkett,Tom Flores,Joe Gibbs,47,29,72920,Marcus Allen+,Tampa Stadium,Tampa,Florida
+38,Jan 30 1983,XVII (17),Washington Redskins,27,Miami Dolphins,17,David Woodley,Joe Theismann,Joe Gibbs,Don Shula,44,10,103667,John Riggins+,Rose Bowl,Pasadena,California
+39,Jan 24 1982,XVI (16),San Francisco 49ers,26,Cincinnati Bengals,21,Ken Anderson,Joe Montana,Bill Walsh,Forrest Gregg,47,5,81270,Joe Montana+,Pontiac Silverdome,Pontiac,Michigan
+40,Jan 25 1981,XV (15),Oakland Raiders,27,Philadelphia Eagles,10,Ron Jaworski,Jim Plunkett,Tom Flores,Dick Vermeil,37,17,76135,Jim Plunkett,Louisiana Superdome,New Orleans,Louisiana
+41,Jan 20 1980,XIV (14),Pittsburgh Steelers,31,Los Angeles Rams,19,Vince Ferragamo,Terry Bradshaw,Chuck Noll,Ray Malavasi,50,12,103985,Terry Bradshaw+,Rose Bowl,Pasadena,California
+42,Jan 21 1979,XIII (13),Pittsburgh Steelers,35,Dallas Cowboys,31,Roger Staubach,Terry Bradshaw,Chuck Noll,Tom Landry,66,4,79484,Terry Bradshaw+,Orange Bowl,Miami,Florida
+43,Jan 15 1978,XII (12),Dallas Cowboys,27,Denver Broncos,10,Craig Morton,Roger Staubach,Tom Landry,Red Miller,37,17,76400,Harvey MartinRandy White+,Superdome,New Orleans,Louisiana
+44,Jan 9 1977,XI (11),Oakland Raiders,32,Minnesota Vikings,14,Fran Tarkenton,Kenny Stabler,John Madden,Bud Grant,46,18,103438,Fred Biletnikoff+,Rose Bowl,Pasadena,California
+45,Jan 18 1976,X (10),Pittsburgh Steelers,21,Dallas Cowboys,17,Roger Staubach,Terry Bradshaw,Chuck Noll,Tom Landry,38,4,80187,Lynn Swann+,Orange Bowl,Miami,Florida
+46,Jan 12 1975,IX (9),Pittsburgh Steelers,16,Minnesota Vikings,6,Fran Tarkenton,Terry Bradshaw,Chuck Noll,Bud Grant,22,10,80997,Franco Harris+,Tulane Stadium,New Orleans,Louisiana
+47,Jan 13 1974,VIII (8),Miami Dolphins,24,Minnesota Vikings,7,Fran Tarkenton,Bob Griese,Don Shula,Bud Grant,31,17,71882,Larry Csonka+,Rice Stadium,Houston,Texas
+48,Jan 14 1973,VII (7),Miami Dolphins,14,Washington Redskins,7,Bill Kilmer,Bob Griese,Don Shula,George Allen,21,7,90182,Jake Scott,Memorial Coliseum,Los Angeles,California
+49,Jan 16 1972,VI (6),Dallas Cowboys,24,Miami Dolphins,3,Bob Griese,Roger Staubach,Tom Landry,Don Shula,27,21,81023,Roger Staubach+,Tulane Stadium,New Orleans,Louisiana
+50,Jan 17 1971,V (5),Baltimore Colts,16,Dallas Cowboys,13,Craig Morton,Earl Morrall,Don McCafferty,Tom Landry,29,3,79204,Chuck Howley,Orange Bowl,Miami,Florida
+51,Jan 11 1970,IV (4),Kansas City Chiefs,23,Minnesota Vikings,7,Joe Kapp,Len Dawson,Hank Stram,Bud Grant,30,16,80562,Len Dawson+,Tulane Stadium,New Orleans,Louisiana
+52,Jan 12 1969,III (3),New York Jets,16,Baltimore Colts,7,Earl Morrall,Joe Namath,Weeb Ewbank,Don Shula,23,9,75389,Joe Namath+,Orange Bowl,Miami,Florida
+53,Jan 14 1968,II (2),Green Bay Packers,33,Oakland Raiders,14,Daryle Lamonica,Bart Starr,Vince Lombardi,John Rauch,47,19,75546,Bart Starr+,Orange Bowl,Miami,Florida
+54,Jan 15 1967,I (1),Green Bay Packers,35,Kansas City Chiefs,10,Len Dawson,Bart Starr,Vince Lombardi,Hank Stram,45,25,61946,Bart Starr+,Memorial Coliseum,Los Angeles,California
